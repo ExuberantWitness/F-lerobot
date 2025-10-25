@@ -390,7 +390,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[USX51飞控](https://shop.makerfire.com/en-jp/pages/usx51-computing-power-flight-controller)** - 提供强大的四核ARM+GPU计算平台
 - **[PX4项目](https://px4.io/)** - 优秀的开源飞控软件和机架配置
 - **[航凯微电公司](https://www.hkvtech.cn/)** - 提供六分量力/力矩传感器
-- **[智源创客松项目](https://hub.baai.ac.cn/view/48654)** - 支持我们探索"飞行+具身+家务场景"
+- **[创客松项目](https://hub.baai.ac.cn/view/48654)** - 支持我们探索"飞行+具身+家务场景"
 
 本项目是我们在具身AI和空中机器人领域持续研究的一部分,欢迎贡献和合作!
 
